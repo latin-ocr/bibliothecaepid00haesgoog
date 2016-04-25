@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./bibliothecaepid00haesgoog_0250.png"; bbox 0 0 3090 5204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 267 2296 1149 2465">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 267 2296 1149 2465">
+     <span class='ocr_line' id='line_1_1' title="bbox 267 2296 1149 2383; baseline 0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 267 2315 491 2383; x_wconf 58' lang='lat' dir='ltr'><em>ommam,</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 515 2331 549 2366; x_wconf 68' lang='lat' dir='ltr'><em>ex</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 561 2296 733 2383; x_wconf 58' lang='lat' dir='ltr'><strong>iypogmphia</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 751 2317 895 2368; x_wconf 71' lang='lat' dir='ltr'><strong>academica</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 911 2317 942 2367; x_wconf 67' lang='lat' dir='ltr'><em>r.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 961 2316 993 2369; x_wconf 73' lang='lat' dir='ltr'><em>o.</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1011 2317 1149 2369; x_wconf 65' lang='lat' dir='ltr'><strong>nuum.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 370 2418 1044 2465; baseline 0.003 -13"><span class='ocrx_word' id='word_1_8' title='bbox 370 2418 1044 2465; x_wconf 56' lang='grc' dir='ltr'><em>Ἶ“““““““·,““··““·“““·““““·““”“·“··“““““’··</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1550 5204">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1550 5204">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1550 5204; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1550 5204; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
